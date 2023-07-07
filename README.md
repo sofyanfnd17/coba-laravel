@@ -1,6 +1,7 @@
 <div align="center">
 <h4> <b> - INI ADALAH PROJECT LARAVEL TUTORIAL DARI BAPAK SANDIKA GALIH PADA CHANNEL YOUTUBE <a href="https://www.youtube.com/@sandhikagalihWPU" target="_blank">WPU - WEB PROGRAMMING UNPAS</a> PADA PLAYLIST <a href="https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2" target="_blank">Belajar LARAVEL 8</a> TETAPI KALI INI SAYA MENGGUNAKAN LARAVEL 10 </b> </h4> 
-<h4> <b> - UNTUK FRONTEND-NYA MUNGKIN BERBEDA DARI TUTORIAL KARENA SAYA MODIFIKASI SENDIRI, BACKEND TETAP SAMA STRUKTURNYA </b> </h4> 
+<h4> <b> - UNTUK FRONTEND-NYA MUNGKIN BERBEDA DARI TUTORIAL KARENA SAYA MODIFIKASI SENDIRI, BACKEND TETAP SAMA STRUKTURNYA </b> </h4>
+<p>*I remove all .gitignore file in this repository</p>
 </div>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
