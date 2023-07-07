@@ -1,5 +1,7 @@
+<div align="center">
 <h4> <b> - INI ADALAH PROJECT LARAVEL DARI TUTORIAL DARI BAPAK SANDIKA GALIH PADA CHANNEL YOUTUBE WPU - WEB PROGRAMMING UNPAS YANG DIBUAT OLEH </b> </h4> 
 <h4> <b> - UNTUK FRONTEND-NYA MUNGKIN BERBEDA DARI TUTORIAL KARENA SAYA MODIFIKASI SENDIRI, BACKEND TETAP SAMA STRUKTURNYA </b> </h4> 
+</div>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
